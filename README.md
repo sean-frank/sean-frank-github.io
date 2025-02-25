@@ -1,2 +1,2 @@
-# seanpfrank.com
+# sean-frank.github.io
 Personal Website
