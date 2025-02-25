@@ -1,2 +1,2 @@
-# sean-frank.github.io
-Personal Website
+# Personal Blog
+WIP
